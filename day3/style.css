@@ -1,0 +1,9 @@
+.table{
+    border: 13px solid rgb(4, 4, 4);
+    border-radius: 13px;
+    background-color: blanchedalmond;
+    -webkit-border-radius: 13px;
+    -moz-border-radius: 13px;
+    -ms-border-radius: 13px;
+    -o-border-radius: 13px;
+}
